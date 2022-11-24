@@ -22,7 +22,7 @@
                 <option value="0" selected>Tất cả</option>
                 <?php
                   foreach($listdanhmuc as $danhmuc){
-                    //extract($danhmuc);
+
                     if($iddm==$danhmuc['id']) $s="selected"; else $s="";
                     echo'<option value="'.$danhmuc['id'].'" '.$s.'>'.$danhmuc['name'].'</option>';
                   }

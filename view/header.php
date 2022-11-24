@@ -105,9 +105,7 @@
                 </div>
               </div>
 
-              <!--<div class="col">
-                <a class="text-success"href="index.php?act=xemdonhang&id=<?php echo $id_user ?>"><i class="fa-solid fa-bell"></i><span class="px-1">Notify</span></a>
-              </div>-->
+
             </div>
           </div>
         </div>
