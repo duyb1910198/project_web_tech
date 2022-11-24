@@ -135,10 +135,6 @@
                       </li>';
               }
             ?>
-            <!--<li><a class="text-success" href="">Cây Phong Thủy</a></li>
-            <li><a class="text-success" href="">Cây Để Bàn</a></li>
-            <li><a class="text-success" href="">Cây Thủy Sinh</a></li>
-            <li><a class="text-success" href="">Cây Tham Khảo</a></li>-->
           </ul>
         </li>
 

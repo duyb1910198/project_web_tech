@@ -2,9 +2,9 @@
       document.title = "Quản Lý Bình Luận";
       document.title;
 </script>
-<div class="tree-container">
+<div class="book-container">
       <div class="container">
-        <div class="tree-box-newproduct">
+        <div class="book-box-newproduct">
           <h4 class="title-list-product text-success">Danh sách bình luận</h4>
         </div>
 
